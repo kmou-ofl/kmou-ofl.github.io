@@ -157,7 +157,7 @@ Department of Ocean Engineering
 {:style="text-align: center"}
 Position: 2nd-year M.S. Student
 {:style="text-align: center"}
-Interest: 
+Interest: Ship resistance
 {:style="text-align: center"}
 E-mail: khc1996@g.kmou.ac.kr
 {:style="text-align: center"}
@@ -174,7 +174,7 @@ Department of Naval Architecture and Ocean Systems Engineering
 {:style="text-align: center"}
 Position: 2nd-year M.S. Student
 {:style="text-align: center"}
-Interest: 
+Interest: Ship resistance
 {:style="text-align: center"}
 E-mail: jaym@g.kmou.ac.kr
 {:style="text-align: center"}
