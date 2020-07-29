@@ -111,6 +111,10 @@ E-mail: spark@kmou.ac.kr
 
 ![Seongjin Song](/assets/images/ssong.jpg){: .align-center}
 
+송성진
+{:style="text-align: center"}
+Seongjin Song
+{:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
 Position: Postdoctoral researcher
@@ -126,6 +130,10 @@ E-mail: ssong@g.kmou.ac.kr
 
 ![Wooyoung Jeon](/assets/images/wjeon.jpg){: .align-center}
 
+전우영
+{:style="text-align: center"}
+Wooyoung Jeon
+{:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
 Position: 2nd-year Ph.D. Student
@@ -141,6 +149,10 @@ E-mail: jeon@g.kmou.ac.kr
 
 ![Huichan Kim](/assets/images/hkim.png){: .align-center}
 
+김희찬
+{:style="text-align: center"}
+Huichan Kim
+{:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
 Position: 2nd-year M.S. Student
@@ -154,6 +166,10 @@ E-mail: khc1996@g.kmou.ac.kr
 
 ![Joseph N'garu](/assets/images/jaym.jpg){: .align-center}
 
+조셉
+{:style="text-align: center"}
+Joseph N'garu
+{:style="text-align: center"}
 Department of Naval Architecture and Ocean Systems Engineering
 {:style="text-align: center"}
 Position: 2nd-year M.S. Student
