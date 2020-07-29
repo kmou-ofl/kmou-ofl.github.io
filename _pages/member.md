@@ -111,9 +111,9 @@ E-mail: spark@kmou.ac.kr
 
 ![Seongjin Song](/assets/images/ssong.jpg){: .align-center}
 
-송성진
+**송성진**
 {:style="text-align: center"}
-Seongjin Song
+**Seongjin Song**
 {:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
@@ -130,9 +130,9 @@ E-mail: ssong@g.kmou.ac.kr
 
 ![Wooyoung Jeon](/assets/images/wjeon.jpg){: .align-center}
 
-전우영
+**전우영**
 {:style="text-align: center"}
-Wooyoung Jeon
+**Wooyoung Jeon**
 {:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
@@ -149,9 +149,9 @@ E-mail: jeon@g.kmou.ac.kr
 
 ![Huichan Kim](/assets/images/hkim.png){: .align-center}
 
-김희찬
+**김희찬**
 {:style="text-align: center"}
-Huichan Kim
+**Huichan Kim**
 {:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
@@ -166,9 +166,9 @@ E-mail: khc1996@g.kmou.ac.kr
 
 ![Joseph N'garu](/assets/images/jaym.jpg){: .align-center}
 
-조셉
+**조셉**
 {:style="text-align: center"}
-Joseph N'garu
+**Joseph N'garu**
 {:style="text-align: center"}
 Department of Naval Architecture and Ocean Systems Engineering
 {:style="text-align: center"}
