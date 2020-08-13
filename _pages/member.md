@@ -128,7 +128,7 @@ E-mail: ssong@g.kmou.ac.kr
 
 ### 전우영
 
-![Wooyoung Jeon](/assets/images/wjeon.jpg){: .align-center}
+![Wooyoung Jeon](/assets/images/wjeon.JPG){: .align-center}
 
 **전우영**
 {:style="text-align: center"}
