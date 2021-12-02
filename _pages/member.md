@@ -201,7 +201,7 @@ E-mail: khc1996@g.kmou.ac.kr
 
 ### 이정욱
 
- ![Jeongwook Lee](/assets/images/-.jpeg){: .align-center}
+ ![Jeongwook Lee](/assets/images/ljw.jpg){: .align-center}
 
 **이정욱**
 {:style="text-align: center"}
@@ -211,7 +211,7 @@ Department of Ocean Engineering
 {:style="text-align: center"}
 Position: 4th-year Undergraduate Student
 {:style="text-align: center"}
-Interest: -
+Interest: Ship resistance, Image processing.
 {:style="text-align: center"}
 E-mail: wjddnr7078@g.kmou.ac.kr
 {:style="text-align: center"}
