@@ -105,6 +105,8 @@ E-mail: spark@kmou.ac.kr
 2. NUMAP-FOAM Summer School, University of Zagreb, Croatia, 1 - 15 September 2010
 3. Marine hydrodynamics, MARIN, Netherlands, 12-16 March 2007
 
+----
+
 ## Post Doc. 
 
 ### 송성진
@@ -123,6 +125,8 @@ Interest: CFD-DEM coupling
 {:style="text-align: center"}
 E-mail: ssong@g.kmou.ac.kr
 {:style="text-align: center"}
+
+----
 
 ## Ph.D. Candidate
 
@@ -180,6 +184,10 @@ E-mail: jaym@g.kmou.ac.kr
 
 ## M.S. Candidate
 
+----
+
+## Technical Research Personnel
+
 ### 김희찬
 
 ![Huichan Kim](/assets/images/khc.jpeg){: .align-center}
@@ -190,12 +198,12 @@ E-mail: jaym@g.kmou.ac.kr
 {:style="text-align: center"}
 Department of Ocean Engineering
 {:style="text-align: center"}
-Position: 2nd-year M.S. Student
-{:style="text-align: center"}
 Interest: Ship resistance, Tidal turbine, Level-Set VOF coupling method, Image processing.
 {:style="text-align: center"}
 E-mail: khc1996@g.kmou.ac.kr
 {:style="text-align: center"}
+
+----
 
 ## Intern
 
@@ -216,8 +224,9 @@ Interest: Ship resistance, Image processing.
 E-mail: wjddnr7078@g.kmou.ac.kr
 {:style="text-align: center"}
 
-## Alumni
+----
 
+## Alumni
 
 |  성명  |   출신학교/학번   |    최종학위     |    직장     |
 | :----: | :---------------: | :-------------: | :---------: |
