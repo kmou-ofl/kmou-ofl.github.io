@@ -4,7 +4,7 @@ author_profile: true
 title: Member
 permalink: /member/
 excerpt: ""
-last_modified_at: 2020-07-28
+last_modified_at: 2021-12-02
 redirect_from:
   - /theme-setup/
 toc: true
