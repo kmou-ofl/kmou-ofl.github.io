@@ -192,7 +192,7 @@ Department of Ocean Engineering
 {:style="text-align: center"}
 Position: 2nd-year M.S. Student
 {:style="text-align: center"}
-Interest: Ship resistance
+Interest: Ship resistance, Tidal turbine, Level-Set VOF coupling method, Image processing.
 {:style="text-align: center"}
 E-mail: khc1996@g.kmou.ac.kr
 {:style="text-align: center"}
