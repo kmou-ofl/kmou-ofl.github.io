@@ -105,7 +105,7 @@ E-mail: spark@kmou.ac.kr
 2. NUMAP-FOAM Summer School, University of Zagreb, Croatia, 1 - 15 September 2010
 3. Marine hydrodynamics, MARIN, Netherlands, 12-16 March 2007
 
-## Post Doc.
+## Post Doc. 
 
 ### 송성진
 
@@ -134,14 +134,49 @@ E-mail: ssong@g.kmou.ac.kr
 {:style="text-align: center"}
 **Wooyoung Jeon**
 {:style="text-align: center"}
-Department of Ocean Engineering
+Department of Convergence Study on the Ocean Science and Technology
 {:style="text-align: center"}
-Position: 2nd-year Ph.D. Student
+Position: 3rd-year Ph.D. Student
 {:style="text-align: center"}
 Interest: Fluid-Structure Interaction, Rogue waves
 {:style="text-align: center"}
 E-mail: jeon@g.kmou.ac.kr
 {:style="text-align: center"}
+
+### 보한
+
+![Liu Bohan](/assets/images/liubohan.jpeg){: .align-center}
+
+**보한**
+{:style="text-align: center"}
+**Liu Bohan**
+{:style="text-align: center"}
+Department of Convergence Study on the Ocean Science and Technology
+{:style="text-align: center"}
+Position: 2rd-year Ph.D. Student
+{:style="text-align: center"}
+Interest: Flettner Rotors Ships, Internal Flow Effect on Vibration of Flexible Marine Pipeline
+{:style="text-align: center"}
+E-mail: liubohan@g.kmou.ac.kr
+{:style="text-align: center"}
+
+### 조셉
+
+![Joseph N'garu](/assets/images/joseph.jpeg){: .align-center}
+
+**조셉**
+{:style="text-align: center"}
+**Joseph N'garu**
+{:style="text-align: center"}
+Department of Convergence Study on the Ocean Science and Technology
+{:style="text-align: center"}
+Position: 1st-year Ph.D. Student
+{:style="text-align: center"}
+Interest: Ship resistance, Cavitation
+{:style="text-align: center"}
+E-mail: jaym@g.kmou.ac.kr
+{:style="text-align: center"}
+
 
 ## M.S. Candidate
 
@@ -162,58 +197,7 @@ Interest: Ship resistance
 E-mail: khc1996@g.kmou.ac.kr
 {:style="text-align: center"}
 
-### 조셉
-
-![Joseph N'garu](/assets/images/joseph.jpeg){: .align-center}
-
-**조셉**
-{:style="text-align: center"}
-**Joseph N'garu**
-{:style="text-align: center"}
-Department of Naval Architecture and Ocean Systems Engineering
-{:style="text-align: center"}
-Position: 2nd-year M.S. Student
-{:style="text-align: center"}
-Interest: Ship resistance
-{:style="text-align: center"}
-E-mail: jaym@g.kmou.ac.kr
-{:style="text-align: center"}
-
-### 보한
-
-![Liu Bohan](/assets/images/liubohan.jpeg){: .align-center}
-
-**보한**
-{:style="text-align: center"}
-**Liu Bohan**
-{:style="text-align: center"}
-Department of Naval Architecture and Ocean Systems Engineering
-{:style="text-align: center"}
-Position: 2nd-year M.S. Student
-{:style="text-align: center"}
-Interest: Ship resistance
-{:style="text-align: center"}
-E-mail: jaym@g.kmou.ac.kr
-{:style="text-align: center"}
-
 ## Intern
-
-### 이정욱
-
-![Jeongwook Lee](/assets/images/-.jpeg){: .align-center}
-
-**이정욱**
-{:style="text-align: center"}
-**Jeongwook Lee**
-{:style="text-align: center"}
-Department of Ocean Engineering
-{:style="text-align: center"}
-Position: 4th-year Undergraduate Student
-{:style="text-align: center"}
-Interest: -
-{:style="text-align: center"}
-E-mail: wjddnr7078@g.kmou.ac.kr
-{:style="text-align: center"}
 
 ## Alumni
 
