@@ -147,7 +147,7 @@ E-mail: jeon@g.kmou.ac.kr
 
 ### 김희찬
 
-![Huichan Kim](/assets/images/hkim.png){: .align-center}
+![Huichan Kim](/assets/images/khc.jpeg){: .align-center}
 
 **김희찬**
 {:style="text-align: center"}
@@ -164,11 +164,28 @@ E-mail: khc1996@g.kmou.ac.kr
 
 ### 조셉
 
-![Joseph N'garu](/assets/images/jaym.jpg){: .align-center}
+![Joseph N'garu](/assets/images/joseph.jpeg){: .align-center}
 
 **조셉**
 {:style="text-align: center"}
 **Joseph N'garu**
+{:style="text-align: center"}
+Department of Naval Architecture and Ocean Systems Engineering
+{:style="text-align: center"}
+Position: 2nd-year M.S. Student
+{:style="text-align: center"}
+Interest: Ship resistance
+{:style="text-align: center"}
+E-mail: jaym@g.kmou.ac.kr
+{:style="text-align: center"}
+
+### 보한
+
+![Liu Bohan](/assets/images/liubohan.jpeg){: .align-center}
+
+**보한**
+{:style="text-align: center"}
+**Liu Bohan**
 {:style="text-align: center"}
 Department of Naval Architecture and Ocean Systems Engineering
 {:style="text-align: center"}
