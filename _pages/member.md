@@ -198,6 +198,23 @@ E-mail: jaym@g.kmou.ac.kr
 
 ## Intern
 
+### 이정욱
+
+![Jeongwook Lee](/assets/images/-.jpeg){: .align-center}
+
+**이정욱**
+{:style="text-align: center"}
+**Jeongwook Lee**
+{:style="text-align: center"}
+Department of Naval Architecture and Ocean Systems Engineering
+{:style="text-align: center"}
+Position: 4th-year Undergraduate Student
+{:style="text-align: center"}
+Interest: -
+{:style="text-align: center"}
+E-mail: wjddnr7078@g.kmou.ac.kr
+{:style="text-align: center"}
+
 ## Alumni
 
 |  성명  |   출신학교/학번   |    최종학위     |    직장     |
