@@ -206,7 +206,7 @@ E-mail: jaym@g.kmou.ac.kr
 {:style="text-align: center"}
 **Jeongwook Lee**
 {:style="text-align: center"}
-Department of Naval Architecture and Ocean Systems Engineering
+Department of Ocean Engineering
 {:style="text-align: center"}
 Position: 4th-year Undergraduate Student
 {:style="text-align: center"}
