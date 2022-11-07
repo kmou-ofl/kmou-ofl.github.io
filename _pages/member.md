@@ -205,7 +205,7 @@ E-mail: khc1996@g.kmou.ac.kr
 
 ----
 
-## Intern
+## The Master's Course
 
 ### 이정욱
 
