@@ -4,10 +4,10 @@ author_profile: true
 title: Gallery
 permalink: /gallery/
 excerpt: ""
-last_modified_at: 2022-11-22
+last_modified_at: 2022-11-21
 redirect_from:
   - /theme-setup/
-feature_row:
+gallery:
     - url: /assets/images/gallery/2020-07-24-dinner.png
       image_path: /assets/images/gallery/2020-07-24-dinner.png
       alt: "placeholder image 1"
