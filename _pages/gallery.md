@@ -8,10 +8,10 @@ last_modified_at: 2020-07-28
 redirect_from:
   - /theme-setup/
 gallery:
-    - url: /assets/images/gallery/2020-07-24-dinner.png
-      image_path: /assets/images/gallery/2020-07-24-dinner.png
+    - image_path: /assets/images/gallery/2020-07-24-dinner.png
+      url: /assets/images/gallery/2020-07-24-dinner.png
       title: "저녁 식사"
-      excerpt: "sample content"
+      excerpt: "add more information"
     - url: /assets/images/gallery/2020-02-22-wedding.jpg
       image_path: /assets/images/gallery/2020-02-22-wedding.jpg
     - url: /assets/images/gallery/2019-09-26-OKUCC-PNU.png
