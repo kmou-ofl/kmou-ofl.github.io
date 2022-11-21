@@ -79,3 +79,4 @@ gallery:
 ---
 
 {% include gallery caption="" %}
+{% include feature_row id="row2" %}
