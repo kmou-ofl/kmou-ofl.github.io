@@ -2,9 +2,9 @@
 layout: single
 author_profile: true
 title: Gallery
-permalink: /feature_row/
+permalink: /gallery/
 excerpt: ""
-last_modified_at: 2022-11-22
+last_modified_at: 2022-11-21
 redirect_from:
   - /theme-setup/
 feature_row:
