@@ -10,6 +10,8 @@ redirect_from:
 gallery:
     - url: /assets/images/gallery/2020-07-24-dinner.png
       image_path: /assets/images/gallery/2020-07-24-dinner.png
+      학회참석
+      {:style="text-align: center"}
     - url: /assets/images/gallery/2020-02-22-wedding.jpg
       image_path: /assets/images/gallery/2020-02-22-wedding.jpg
     - url: /assets/images/gallery/2019-09-26-OKUCC-PNU.png
