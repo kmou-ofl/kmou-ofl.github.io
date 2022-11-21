@@ -4,7 +4,7 @@ author_profile: true
 title: Gallery
 permalink: /gallery/
 excerpt: ""
-last_modified_at: 2020-07-28
+last_modified_at: 2022-11-21
 redirect_from:
   - /theme-setup/
 gallery:
