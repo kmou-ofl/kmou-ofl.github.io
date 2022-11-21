@@ -2,14 +2,13 @@
 layout: single
 author_profile: true
 title: Gallery
-permalink: /gallery/
+permalink: /feature_row/
 excerpt: ""
-last_modified_at: 2022-11-21
+last_modified_at: 2022-11-22
 redirect_from:
   - /theme-setup/
-gallery:
-    - url: /assets/images/gallery/2020-07-24-dinner.png
-      image_path: /assets/images/gallery/2020-07-24-dinner.png
+feature_row:
+    - image_path: /assets/images/gallery/2020-07-24-dinner.png
       alt: "placeholder image 1"
       title: "Image 1 title caption"
     - url: /assets/images/gallery/2020-02-22-wedding.jpg
@@ -78,4 +77,4 @@ gallery:
       image_path: /assets/images/gallery/2015-00-00-KAOSTS-ICC-01.jpg
 ---
 
-{% include gallery caption="" %}
+{% include feature_row %}
